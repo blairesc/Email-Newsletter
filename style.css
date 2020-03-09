@@ -1,0 +1,89 @@
+body {
+    background-color: #e3e3e3;
+}
+
+.header {
+    max-width: 602px;
+    width: 100%;
+}
+
+.header-content {
+    background-color: #fde148;
+    padding: 15px
+}
+
+.header-content h2 {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.banner-section {
+    padding: 100px 30px;
+    background-image: url(https://i10.dainikbhaskar.com/thumbnails/730x548/web2images/www.bhaskar.com/2016/11/24/evoke_socks-4_1479993435.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-section h1 {
+    color: #ffffff;
+    font-family: sans-serif;
+    text-shadow: 1px 1px #444444;
+    margin: 20px 0px;
+}
+
+.banner-section a {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #fde148;
+    padding: 12px 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom:  15px;
+    border-radius: 5px;
+}
+
+.arrival-section {
+    background-color: #ffffff;
+    padding: 0px 20px;
+}
+
+.arrival-section h3 {
+    font-size: 25px;
+    font-family: sans-serif;
+    margin: 25px 0px 20px;
+}
+
+.arrival {
+    width:100%;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.arrival td {
+    display: inline-block;
+    max-width: 270px;
+    width: 100%;
+}
+
+.arrival td img {
+    max-width: 268px;
+    width: 100%;
+    border: 1px solid #d5d5d5;
+}
+
+.arrival td h2 {
+    margin: 10px 0px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #000000;
+}
+
+.arrival td p {
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #444444;
+    margin-bottom: 20px;
+}
